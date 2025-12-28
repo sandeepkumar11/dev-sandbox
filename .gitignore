@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Java
+target/
+*.class
+
+# Logs
+*.log
+
+# Misc
+.env
+
+# Go
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build output
+bin/
+dist/
+build/
+
+# Coverage
+coverage.out
+*.coverprofile
+
+# Go workspace (if used)
+go.work
+go.work.sum
+
+# Tooling caches (optional)
+.golangci-lint.cache/
